@@ -1,1 +1,1 @@
-# Fixed Vercel build (relative ./src/main.tsx) + Node functions. Replace placeholder with your full PriceItNow component if needed.
+# Easiest build: upload to GitHub → import to Vercel. Replace src/PriceItNow.tsx with your canvas code.
